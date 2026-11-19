@@ -1,0 +1,30 @@
+{
+ "name": "江湖大富翁",
+ "short_name": "江湖大富翁",
+ "description": "金庸版魔岛大富翁：掷骰占城、升级打怪、招募名侠",
+ "lang": "zh-CN",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#16324d",
+ "theme_color": "#16324d",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
